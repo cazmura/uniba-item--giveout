@@ -1,0 +1,47 @@
+.good {
+    width: 200px;
+    height: 50px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.rem;
+    border-radius: 20%;
+    cursor: pointer;
+    
+    position: absolute;
+    top: 40%;
+    left: 44%;
+}
+
+.good2 {
+    width: 200px;
+    height: 50px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.rem;
+    border-radius: 20%;
+    cursor: pointer;
+    
+    position: absolute;
+    top: 22%;
+    left: 44%;
+}
+
+.good3 {
+    width: 200px;
+    height: 50px;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.rem;
+    border-radius: 20%;
+    cursor: pointer;
+    
+    position: absolute;
+    top: 22%;
+    left: 7%;
+}
